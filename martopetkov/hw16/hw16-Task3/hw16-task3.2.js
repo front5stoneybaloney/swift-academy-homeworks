@@ -12,8 +12,3 @@ var addText = setInterval(function() {
     
     $("#changeText").clone().appendTo(".col-sm-8");
 }, 2000);
-
-
-
-
-
